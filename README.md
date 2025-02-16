@@ -9,7 +9,7 @@ Welcome to your **daily coding workout**! Every day, you’ll face **three hand-
 1. **Click the provided links** to the LeetCode problems.  
 2. **Dedicate one focused hour**—that’s **20 minutes per problem**—to solving them.  
 3. **If you solve them, awesome! You crushed today's challenge!** 🎉  
-4. **If you struggle, don’t worry!** This is how you grow. Review the solution, understand the approach, and come back stronger. 💪  
+4. **If you struggle, don’t worry!** This is how you grow. Review the solution file for that day, understand the approach, and come back stronger. 💪  
 
 ---
 
